@@ -1,0 +1,3 @@
+[submodule "clojure-web-application"]
+	path = clojure-web-application
+	url = https://gitlab.com/gitlab-examples/clojure-web-application
